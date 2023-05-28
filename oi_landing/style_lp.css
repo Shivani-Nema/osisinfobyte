@@ -1,0 +1,114 @@
+header{
+    background-color: rgb(151, 53, 53);
+    height: 15vh;
+    
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+}
+nav ul li{
+    list-style: none;
+    margin: 4px;
+    padding: 9px;
+    
+}
+nav ul{
+    margin: 4px;
+    padding: 30px 0px 4px 900px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.image img{
+    width: 120px;
+    position: absolute;
+    top : 25px;
+    left: 30px;
+}
+.mid{
+    height: 90vh;
+    background-color: rgba(230, 134, 134, 0.724);
+}
+.mid .img1{
+    height: 500px;
+    display: flex;
+    float: left;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.mid .img2{
+    height: 500px;
+    display: flex;
+    float: right;
+    padding-top: 30px;
+}
+.mid .text{
+    border: 15px solid rgb(151, 53, 53);
+    font-family: 'Yellowtail', cursive;
+    height: 40vh;
+    width: 70vh;
+    width: 70vh;
+    padding: 100px 20px 0px 20px;
+    position: absolute;
+    top : 150px;
+    left: 450px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    
+}
+.buy{
+    height: 60vh;
+    background-color: rgb(151, 53, 53);
+}
+.buy .choco{
+    height: 40vh;
+    display: flex;
+    float: left;
+    position: absolute;
+    top : 110vh;
+    left: 20px;
+}
+.buy .candy{
+    height: 40vh;
+    display: flex;
+    float: center;
+    position: absolute;
+    top : 110vh;
+    left: 530px;
+    
+}
+.buy .jellies{
+    height: 40vh;
+    display: flex;
+    float: right;
+    position: absolute;
+    top : 110vh;
+    left: 1010px;
+}
+.buy .t1{
+    background-color: beige;
+    padding: 4px 20px 4px 20px;
+    position: absolute;
+    top : 155vh;
+    left: 10px;
+    font-size: 25px;
+}
+.buy .t2{
+    background-color: beige;
+    padding: 6px 20px 6px 20px;
+    position: absolute;
+    top : 155vh;
+    left: 550px;
+    font-size: 25px;
+}
+.buy .t3{
+    background-color: beige;
+    padding: 6px 20px 6px 20px;
+    position: absolute;
+    top : 155vh;
+    left: 1025px;
+    font-size: 25px;
+}
